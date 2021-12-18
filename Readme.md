@@ -8,3 +8,8 @@ git add .
 git commit -m ""
 git push
 ```
+
+```bash
+git pull
+```
+
