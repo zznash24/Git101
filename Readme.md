@@ -8,6 +8,7 @@ git add .
 git commit -m ""
 git push
 ```
+Added a pull request 
 
 ```bash
 git pull
