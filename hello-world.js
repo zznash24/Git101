@@ -150,5 +150,9 @@ function divide(num1, num2) {
     return 15 / 3
 }
 
-console.log (divide());
+function mod(num1, num2) {
+    return 10 % 40
+}
+
+console.log (mod());
 
