@@ -197,5 +197,5 @@ const diverseObject = {name: `banana`, count: 42, isDelicious: true}
 return diverseObject;
 }
 
-console.log (threeNumbers());
+console.log (manyTypes());
 
