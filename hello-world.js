@@ -124,10 +124,15 @@ function abstractLength() {
   return tarPitAbstract.length;
   }
 
-  function makeLoud() { var chorus = 'Who let the dogs out?'; 
+function makeLoud() { var chorus = 'Who let the dogs out?'; 
 return chorus.toUpperCase();
 } 
 
 function makeQuiet(str) {
-return makeQuiet.toLowerCase
+return str.toLowerCase
 }
+
+function add99 (z) {
+return 99 + n;
+}
+
