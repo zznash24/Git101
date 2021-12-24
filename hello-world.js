@@ -165,7 +165,7 @@ function multipleTypes() {
 }
 
 function indexAccess() {
-    let people = [`jack`, `jill`, `zach`, `andy`, `shannon`, `kyler`, `monique`, `Jaun`]
+    let people = [`jack`, `jill`, `zach`, `andy`, `shannon`, `kyler`, `monique`, `Jaun`];
     
 }
 console.log (indexAccess(3));
