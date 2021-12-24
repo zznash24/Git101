@@ -176,10 +176,10 @@ arr.push(`d`);
     return arr;
 }
 
-function useIndexof() {
+function useIndexOf() {
     let arr = ['C', 'A', 'G', 'T', 'A', 'A', 'G', 'T']
-    return arr[T];
+    return arr.indexof(`T`);
 
 }
-console.log (useIndexof());
+console.log (useIndexOf());
 
