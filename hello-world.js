@@ -186,5 +186,10 @@ function useJoin() {
     let alpha = ['a', 'b', 'c', 'd', 'e', 'f'];
     return alpha.join(`-`)
 }
+
+function threeNumbers() {
+    const numbers = {numberOne: 1, numberTwo: 2, numberThree: 3}
+    return numbers;
+}
 console.log (useJoin());
 
