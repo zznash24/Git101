@@ -164,5 +164,9 @@ function multipleTypes() {
     return diverseArray;
 }
 
-console.log (multipleTypes());
+function indexAccess() {
+    let people = [`jack`, `jill`, `zach`, `andy`, `shannon`, `kyler`, `monique`, `Jaun`]
+    return people
+}
+console.log (indexAccess(3));
 
