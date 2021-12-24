@@ -142,6 +142,9 @@ function subtract(num1, num2){
     return 8 - 4;
 }
 
+function multiply(Num1, num2) {
+    return 10 * 20
+}
 
 console.log (subtract());
 
