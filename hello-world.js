@@ -175,5 +175,5 @@ arr.push(`d`);
 
     return arr;
 }
-console.log (indexAccess());
+console.log (useLength());
 
