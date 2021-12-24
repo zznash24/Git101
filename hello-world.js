@@ -146,5 +146,5 @@ function multiply(Num1, num2) {
     return 10 * 20
 }
 
-console.log (subtract());
+console.log (multiply());
 
