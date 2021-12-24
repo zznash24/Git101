@@ -164,5 +164,5 @@ function multipleTypes() {
     return diverseArray;
 }
 
-console.log (MultipleTypes());
+console.log (multipleTypes());
 
