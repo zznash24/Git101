@@ -191,5 +191,5 @@ function threeNumbers() {
     const numbers = {numberOne: 1, numberTwo: 2, numberThree: 3}
     return numbers;
 }
-console.log (useJoin());
+console.log (threeNumbers());
 
