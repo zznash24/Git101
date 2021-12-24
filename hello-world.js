@@ -151,7 +151,7 @@ function divide(num1, num2) {
 }
 
 function mod(num1, num2) {
-    return 10 % 40
+    return 40 % 10
 }
 
 console.log (mod());
