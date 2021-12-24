@@ -191,5 +191,11 @@ function threeNumbers() {
     const numbers = {numberOne: 1, numberTwo: 2, numberThree: 3}
     return numbers;
 }
+
+function manyTypes {
+const diverseObject = {name: `banana`, count: 42, isDelicious: true}
+return diverseObject;
+}
+
 console.log (threeNumbers());
 
