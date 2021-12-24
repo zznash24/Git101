@@ -154,5 +154,10 @@ function mod(num1, num2) {
     return 8 % 80;
 }
 
-console.log (mod());
+function threeFruits() {
+    let fruits = [`Apple`, `Banana`, `Cherry`]
+    return fruits;
+}
+
+console.log (threeFruits());
 
