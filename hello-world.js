@@ -168,5 +168,5 @@ function indexAccess() {
     let people = [`jack`, `jill`, `zach`, `andy`, `shannon`, `kyler`, `monique`, `Jaun`];
     
 }
-console.log (indexAccess(myArray(3)));
+console.log (indexAccess.indexof(3));
 
