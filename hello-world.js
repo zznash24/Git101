@@ -192,7 +192,7 @@ function threeNumbers() {
     return numbers;
 }
 
-function manyTypes {
+function manyTypes () {
 const diverseObject = {name: `banana`, count: 42, isDelicious: true}
 return diverseObject;
 }
