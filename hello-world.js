@@ -168,5 +168,12 @@ function indexAccess() {
     let people = [`jack`, `jill`, `zach`, `andy`, `shannon`, `kyler`, `monique`, `Jaun`];
     return people[3];
 }
+
+function useLength() {
+    let arr = [`a`, `b`, `c`]
+arr.push(`d`);
+
+    return arr;
+}
 console.log (indexAccess());
 
