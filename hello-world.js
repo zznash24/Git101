@@ -134,4 +134,7 @@ function add99 (z) {
 return 99 + n;
 }
 
-console.log ("add99");
+function add(45, 50) {
+return 45 + 50;
+}
+console.log ("add");
