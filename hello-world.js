@@ -175,5 +175,11 @@ arr.push(`d`);
 
     return arr;
 }
-console.log (useLength());
+
+function useIndexof() {
+    let arr = ['C', 'A', 'G', 'T', 'A', 'A', 'G', 'T']
+    return arr[T];
+
+}
+console.log (useIndexof());
 
