@@ -1,4 +1,4 @@
-console.log("hello world")
+// console.log("hello world")
 
 // var object = {
 //     Testing: 4,
@@ -18,3 +18,15 @@ console.log("hello world")
 // }
 
 // add()
+
+let number1 = 16;
+
+let number2 = 23;
+
+console.log(number1 + 10);
+console.log(number2 +7);
+
+function add(number1, number2) {
+
+
+}
