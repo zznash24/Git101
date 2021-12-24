@@ -134,7 +134,7 @@ function add99 (z) {
 return 99 + n;
 }
 
-function add(n, m) {
-return n + m;
+function add(num1, num2) {
+return 2 + 4;
 }
 console.log (add());
