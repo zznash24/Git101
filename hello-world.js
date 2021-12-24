@@ -159,5 +159,10 @@ function threeFruits() {
     return fruits;
 }
 
-console.log (threeFruits());
+function multipleTypes() {
+    let diverseArray = [`skateboard`, null, 8.75, `Eiffel Tower`, 44, 7, true, null]
+    return diverseArray;
+}
+
+console.log (MultipleTypes());
 
