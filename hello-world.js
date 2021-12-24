@@ -181,5 +181,10 @@ function useIndexOf() {
     return arr.indexOf(`T`);
 
 }
-console.log (useIndexOf());
+
+function useJoin() {
+    let alpha = ['a', 'b', 'c', 'd', 'e', 'f'];
+    return alpha.join(`-`)
+}
+console.log (useJoin());
 
