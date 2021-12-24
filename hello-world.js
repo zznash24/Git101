@@ -143,15 +143,15 @@ function subtract(num1, num2){
 }
 
 function multiply(Num1, num2) {
-    return 10 * 20
+    return 10 * 20;
 }
 
 function divide(num1, num2) {
-    return 15 / 3
+    return 15 / 3;
 }
 
 function mod(num1, num2) {
-    return 40 % 10
+    return 8 % 80;
 }
 
 console.log (mod());
