@@ -60,8 +60,6 @@
 //   }
   
 //   let total = totalWithTip([5, 10, 15, 20, 100, 500]); //item.length => 5
-  
-
 function makeANumber() {
 let myNum = 7708675309;
 return myNum;
@@ -136,3 +134,4 @@ function add99 (z) {
 return 99 + n;
 }
 
+console.log (hello-world)
