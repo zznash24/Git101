@@ -19,14 +19,15 @@
 
 // add()
 
-let number1 = 16;
+// let number1 = 16;
 
-let number2 = 23;
+// let number2 = 23;
 
-console.log(number1 + 10);
-console.log(number2 +7);
+// console.log(number1 + 10);
+// console.log(number2 +7);
 
-function add(number1, number2) {
+// function add(number1, number2) {
 
 
-}
+// }
+
