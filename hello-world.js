@@ -146,5 +146,9 @@ function multiply(Num1, num2) {
     return 10 * 20
 }
 
-console.log (multiply());
+function divide(num1, num2) {
+    return 15 / 3
+}
+
+console.log (divide());
 
