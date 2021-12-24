@@ -178,7 +178,7 @@ arr.push(`d`);
 
 function useIndexOf() {
     let arr = ['C', 'A', 'G', 'T', 'A', 'A', 'G', 'T'];
-    return arr.indexof(`T`);
+    return arr.indexOf(`T`);
 
 }
 console.log (useIndexOf());
