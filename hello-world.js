@@ -137,4 +137,11 @@ return 99 + n;
 function add(num1, num2) {
 return 2 + 4;
 }
-console.log (add());
+
+function subtract(num1, num2){
+    return 8 - 4;
+}
+
+
+console.log (subtract());
+
