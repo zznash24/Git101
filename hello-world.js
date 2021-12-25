@@ -197,5 +197,14 @@ const diverseObject = {name: `banana`, count: 42, isDelicious: true}
 return diverseObject;
 }
 
-console.log (manyTypes());
+function keyAccess() {
+    const bestFruit = {name: `banana`, count: 42, isDelicious: true}
+
+  console.assert(bestFruit['name'] === 'banana')
+  console.assert(bestFruit['count'] === 42)
+  console.assert(bestFruit['isDelicious'] === true)
+
+  return bestFruit(`name`);
+}
+console.log (keyAccess());
 
