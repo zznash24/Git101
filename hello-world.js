@@ -204,7 +204,7 @@ function keyAccess() {
   console.assert(bestFruit['count'] === 42)
   console.assert(bestFruit['isDelicious'] === true)
 
-  return bestFruit(`name`);
+  return bestFruit[`name`];
 }
 console.log (keyAccess());
 
